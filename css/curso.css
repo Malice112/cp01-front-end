@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Dosis&family=Prompt&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: "Prompt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body{ 
+    background-color: black;
+}
+
+.principal {
+    width: 100%;
+    text-align: center;
+    padding: 1em 0;
+
+}
+
+.principal__titulo {
+    margin: 0 2em;
+    font-size: 40px;
+    color: deeppink;
+}
+
+.principal__imagem {
+    border: 2px solid deeppink;
+    border-radius: 16px;
+    margin: 2.5em 0;
+}
+
+.curso__titulo {
+    text-align: center;
+    margin: 1.5em 0;
+    font-size: 35px;
+    color: deeppink;
+}
+
+p { 
+    font-size: 25px;
+    margin: 1em 0;
+    text-align: justify;
+    margin-right: 4em;
+    margin-left: 4em;
+}
+
+
+a {
+    font-size: 25px;
+    margin:0;
+    margin-top: 1em;
+    text-decoration: none;
+    background-color: deeppink;
+    border-radius: 16px;
+    padding: 0.2em 0.2em;
+}
+
+a:hover {
+    background-color: aliceblue;
+    color: deeppink;
+}
