@@ -29,7 +29,7 @@ body {
 }
 
 .principal__paragrafo {
-    margin: 2em 4em 2em 4em;
+    margin: 2em 4em;
     font-size: 20px;
     text-align: justify;
 }
@@ -63,8 +63,8 @@ body {
 }
 
 .sites__link {
-    margin: 1em 1em 1em 1em;
+    margin: 1em;
     font-size: 20px;
-    padding: 0.2em 0.2em ;
+    padding: 0.2em ;
 }
 
