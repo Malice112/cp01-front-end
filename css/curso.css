@@ -24,11 +24,9 @@ body{
 .principal__titulo {
     margin: 0 2em;
     font-size: 40px;
-    color: deeppink;
 }
 
 .principal__imagem {
-    border: 2px solid deeppink;
     border-radius: 16px;
     margin: 2.5em 0;
 }
@@ -37,7 +35,6 @@ body{
     text-align: center;
     margin: 1.5em 0;
     font-size: 35px;
-    color: deeppink;
 }
 
 p { 
@@ -53,13 +50,6 @@ a {
     font-size: 25px;
     margin:0;
     margin-top: 1em;
-    text-decoration: none;
-    background-color: deeppink;
     border-radius: 16px;
-    padding: 0.2em 0.2em;
-}
-
-a:hover {
-    background-color: aliceblue;
-    color: deeppink;
+    padding: 0.05em 0.2em;
 }
